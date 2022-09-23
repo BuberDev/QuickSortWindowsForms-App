@@ -6,11 +6,11 @@ Quick sort is a comparison sort, meaning that it can sort items of any type for 
 
 <h1>  3 steps how to operate the application  </h1>
 <h1> 1. </h1>
-<img width="1362" height="1000" alt="appQuickSort" src="https://user-images.githubusercontent.com/92649325/191930577-02c4b388-b1ba-47e4-bf23-4d2a9ef2b3f1.png">
+<img width="862" height="1000" alt="appQuickSort" src="https://user-images.githubusercontent.com/92649325/191930577-02c4b388-b1ba-47e4-bf23-4d2a9ef2b3f1.png">
 
 
 <h1> 2. </h1>
-<img width="862" alt="appQuickSort" src="https://user-images.githubusercontent.com/92649325/191930617-e5bb0da6-3b8d-4d53-ad89-b70e2ede57f0.png">
+<img width="1362" alt="appQuickSort" src="https://user-images.githubusercontent.com/92649325/191930617-e5bb0da6-3b8d-4d53-ad89-b70e2ede57f0.png">
 
 
 <h1> 3. </h1>
