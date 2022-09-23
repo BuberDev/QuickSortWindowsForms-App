@@ -14,7 +14,7 @@ Quick sort is a comparison sort, meaning that it can sort items of any type for 
 
 
 <h1> 3. </h1>
-![QuickSort3](https://user-images.githubusercontent.com/92649325/191930640-fcb9556f-2c4c-4aa2-a225-1f93d15f247e.png)
+<img width="1362" alt="appQuickSort" src="https://user-images.githubusercontent.com/92649325/191930640-fcb9556f-2c4c-4aa2-a225-1f93d15f247e.png">
 
 
 
