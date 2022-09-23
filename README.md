@@ -6,7 +6,7 @@ Quick sort is a comparison sort, meaning that it can sort items of any type for 
 
 <h1>  3 steps how to operate the application  </h1>
 <h1> 1. </h1>
-![QuickSort1](https://user-images.githubusercontent.com/92649325/191930577-02c4b388-b1ba-47e4-bf23-4d2a9ef2b3f1.png)
+<img width="1362" alt="appQuickSort" src="https://user-images.githubusercontent.com/92649325/191930577-02c4b388-b1ba-47e4-bf23-4d2a9ef2b3f1.png">
 
 
 <h1> 2. </h1>
