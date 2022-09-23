@@ -1,7 +1,9 @@
-<h1>We write a C# Sharp program to sort a list of elements using Quick sort.
-Quick sort is a comparison sort, meaning that it can sort items of any type for which a "less-than" relation (formally, a total order) is defined.</h1>
+<h2>We write a C# Sharp program to sort a list of elements using Quick sort.
+Quick sort is a comparison sort, meaning that it can sort items of any type for which a "less-than" relation (formally, a total order) is defined.</h2>
 
 <h1>  Quick Sort algorithm :  </h1>
+<img width="1362" alt="appCalc" src="https://user-images.githubusercontent.com/92649325/191928381-3bfc6cb8-b115-49b6-b37f-4c57b3a7c190.png">
+
 ![QuickSortScheme](https://user-images.githubusercontent.com/92649325/191928381-3bfc6cb8-b115-49b6-b37f-4c57b3a7c190.png)
 
 <h1>  3 steps how to operate the application  </h1>
