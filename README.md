@@ -10,7 +10,7 @@ Quick sort is a comparison sort, meaning that it can sort items of any type for 
 
 
 <h1> 2. </h1>
-<img width="1362" alt="appQuickSort" src="https://user-images.githubusercontent.com/92649325/191930617-e5bb0da6-3b8d-4d53-ad89-b70e2ede57f0.png">
+<img width="1062" alt="appQuickSort" src="https://user-images.githubusercontent.com/92649325/191930617-e5bb0da6-3b8d-4d53-ad89-b70e2ede57f0.png">
 
 
 <h1> 3. </h1>
